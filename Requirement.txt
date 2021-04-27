@@ -1,0 +1,15 @@
+1.) Purpose and Scope :
+	-> In this asssessment, i will make a program where the user can see student report card
+	     based on their roll number.
+2.) Goals:
+	-> User will give input (roll_number) and can see the report card of a student.
+	-> The student information of report card stored in JSON file in Dictionary format.
+ 
+3.) Overview and Uses:
+	-> In this Assessment, when the user enter roll number then, user can see the student
+	     information like student name, address, class, report card etc.
+
+4.)Constraints:
+	-> User can see limited data which is stored in JSON file and not huge amount of student 
+	     information stored in JSON file.
+	-> There is no database use.
